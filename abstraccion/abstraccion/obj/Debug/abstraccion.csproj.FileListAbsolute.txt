@@ -1,0 +1,6 @@
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\abstraccion\abstraccion\bin\Debug\abstraccion.exe.config
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\abstraccion\abstraccion\obj\Debug\abstraccion.csprojResolveAssemblyReference.cache
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\abstraccion\abstraccion\bin\Debug\abstraccion.exe
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\abstraccion\abstraccion\bin\Debug\abstraccion.pdb
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\abstraccion\abstraccion\obj\Debug\abstraccion.exe
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\abstraccion\abstraccion\obj\Debug\abstraccion.pdb

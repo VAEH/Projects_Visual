@@ -1,0 +1,6 @@
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\punto1\punto1\bin\Debug\punto1.exe.config
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\punto1\punto1\bin\Debug\punto1.exe
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\punto1\punto1\bin\Debug\punto1.pdb
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\punto1\punto1\obj\Debug\punto1.csprojResolveAssemblyReference.cache
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\punto1\punto1\obj\Debug\punto1.exe
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\punto1\punto1\obj\Debug\punto1.pdb

@@ -1,0 +1,6 @@
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csprojResolveAssemblyReference.cache
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+c:\users\víctor echavarría\documents\visual studio 2015\Projects\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb
